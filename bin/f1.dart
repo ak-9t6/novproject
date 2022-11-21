@@ -5,7 +5,7 @@ void main(){
   double mark = 5.6;
   String email = 'ananthakrishnang209@gmail.com';
   int phone = 7025590900;
-  print(' name);
+  print(name);
   print(age);
   print(mark);
   print(email);
